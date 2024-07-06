@@ -1,3 +1,4 @@
+nginx
 #lobehub/lobe-chat
 lobehub/lobe-chat
 #支持私库
